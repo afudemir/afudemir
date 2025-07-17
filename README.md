@@ -21,6 +21,7 @@ Real-time waveform visualization using analog signal acquisition and UART displa
 🔌 Platforms:     Jetson Nano, MSP430, Arduino, ESP32  
 🧠 Tools/Libs:     OpenCV, ONNX, Firebase, NumPy, Matplotlib  
 📐 CAD/Design:     Altium Designer, Fritzing  
+
 📫 Contact Me
 
 📧 ahmetfurkandemir4104@outlook.com
