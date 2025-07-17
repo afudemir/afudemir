@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Ahmet Furkan Demir
 
-<!--
-**afudemir/afudemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Embedded Systems | Computer Vision | AI Enthusiast
+  Kocaeli University - Electronics & Communication Engineering Graduate
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I hold a B.Sc. degree in Electronics and Communication Engineering from Kocaeli University.  
+- 🤖 I’m passionate about embedded systems, computer vision, and AI-powered real-time applications.  
+- 💡 I build systems that combine hardware, software, and intelligence.
+- ### 🚀 Highlighted Projects
+- #### 👶 AI-Based Baby Sleep Monitoring System
+- Jetson Nano + OpenCV + ONNX = Real-time sleeping posture classification with automated email alerts.
+→ **Technologies**: Python, OpenCV, Jetson Nano, SSD-Mobilenet, ONNX Runtime
+#### 📉 Digital Oscilloscope with MSP430
+Real-time waveform visualization using analog signal acquisition and UART display.  
+→ **Technologies**: C, MSP430, Code Composer Studio  
+### 🧰 Tech Stack
+
+💻 Languages:     Python, C, C++, Embedded C, MATLAB  
+🔌 Platforms:     Jetson Nano, MSP430, Arduino, ESP32  
+🧠 Tools/Libs:     OpenCV, ONNX, Firebase, NumPy, Matplotlib  
+📐 CAD/Design:     Altium Designer, Fritzing  
+📫 Contact Me
+
+📧 ahmetfurkandemir4104@outlook.com
+💼 [LinkedIn](https://www.linkedin.com/in/ahmet-furkan-demir-269619283/)
+
+
+
