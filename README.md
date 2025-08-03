@@ -24,7 +24,7 @@ Real-time waveform visualization using analog signal acquisition and UART displa
 
 📫 Contact Me
 
-📧 ahmetfurkandemir4104@outlook.com
+📧 afu.321@hotmail.com
 
 💼 [LinkedIn](https://www.linkedin.com/in/ahmet-furkan-demir-269619283/)
 
